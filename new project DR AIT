@@ -1,0 +1,139 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DR.AIT</title>
+    <link rel="stylesheet" href="DR AIT.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <div class="menu_bar">
+    <h1 class="logo">DR.AIT</h1>
+    
+    <ul>
+        <li><a href="#">BookMyShow <i class="fa-solid fa-ticket"></i></a>
+        <ul>
+            <li><a href="#">ABHAY B SUVARNA</a></li>
+            <li><a href="#">AKARSH KIRAN GOWDA</a></li>
+            <li><a href="#">AKASH KUMAR SINGH</a></li>
+            <li><a href="#">ANJU PATEL</a></li>
+        </ul>
+        </li>
+        <li><a href="#">Fruit shop <i class="fa-solid fa-carrot"></i></a>
+        <ul>
+            <li><a href="#">ANUJ KUMAR</a></li>
+            <li><a href="#">ANUSHKA MR</a></li>
+            <li><a href="#">APPAJIGOUDA</a></li>
+            <li><a href="#">ANVESH BR</a></li>
+        </ul>
+        </li>
+        <li><a href="#">Instagram web page <i class="fa-brands fa-instagram"></i></a>
+            <ul>
+                <li><a href="#">ARYAN RAJ SINGH</a></li>
+                <li><a href="#">ATHIH SRINIVAS</a></li>
+                <li><a href="#">AYUSH A WASTER</a></li>
+                <li><a href="#">BABU</a></li>
+            </ul>
+            </li>
+            <li><a href="#">Bank dashbord <i class="fa-solid fa-piggy-bank"></i></a>
+            <ul>
+                <li><a href="#">DEEKSHITHA S GOWDA</a></li>
+                <li><a href="#">DHANA LAKSHMI DS</a></li>
+                <li><a href="#">DHRUV SING BISHT</a></li>
+                <li><a href="#">DIVYA N</a></li>
+            </ul>
+            </li>
+            <li><a href="#">Department library <i class="fa-solid fa-book"></i></a>
+                <ul>
+                    <li><a href="#">GAURAV H M</a></li>
+                    <li><a href="#">HARSHAVARDAN K</a></li>
+                    <li><a href="#">HARSH SING</a></li>
+                    <li><a href="#">HARSHITH HV</a></li>
+                </ul>
+                </li>
+                <li><a href="#">Login Form <i class="fa-solid fa-right-to-bracket"></i></a>
+                <ul>
+                    <li><a href="#">JAVERIA FATHIMA</a></li>
+                    <li><a href="#">JEEVAN D</a></li>
+                    <li><a href="#">KIRAN M</a></li>
+                    <li><a href="#">KUNAL RAJ</a></li>
+                </ul>
+                </li>
+                <li><a href="#">Watsapp web <i class="fa-brands fa-whatsapp"></i></a>
+                    <ul>
+                        <li><a href="#">MALLIKARJUN C</a></li>
+                        <li><a href="#">MAYUR A</a></li>
+                        <li><a href="#">MOUNESH S D</a></li>
+                        <li><a href="#">MOURYA S</a></li>
+                    </ul>
+                    </li>
+                    <li><a href="#">Twitter web <i class="fa-brands fa-twitter"></i></a>
+                        <ul>
+                            <li><a href="#">MUKESH N A</a></li>
+                            <li><a href="#">NAGARJUN</a></li>
+                            <li><a href="#">NAVANEETH KS</a></li>
+                            <li><a href="#">NISARGA D S</a></li>
+                        </ul>
+                        </li><li><a href="#">AI&ML time table <i class="fa-solid fa-table-list"></i></a>
+                            <ul>
+                                <li><a href="#">PALLAVI DEVI Y</a></li>
+                                <li><a href="#">POOJA G</a></li>
+                                <li><a href="#">PRAJWAL GOWDA H N</a></li>
+                                <li><a href="#">PRAVEEN KUMAR NR</a></li>
+                            </ul>
+                            </li>
+                            <li><a href="#">Calander of events <i class="fa-regular fa-calendar-days"></i></a>
+                                <ul>
+                                    <li><a href="#">PRIYANSHU YADAV</a></li>
+                                    <li><a href="#">RISHAB</a></li>
+                                    <li><a href="#">SAGAR B R</a></li>
+                                    <li><a href="#">SAGER H M</a></li>
+                                </ul>
+                                </li>
+                                <li><a href="#">Youtube web <i class="fa-brands fa-youtube"></i></a>
+                                    <ul>
+                                        <li><a href="#">SAHAJ DUBEY</a></li>
+                                        <li><a href="#">SAHEEL PRADHAN</a></li>
+                                        <li><a href="#">SANJANA C H</a></li>
+                                        <li><a href="#">SANJANA K U</a></li>
+                                    </ul>
+                                    </li>
+                                    <li><a href="#">AI&ML Department &Faculty <i class="fa-solid fa-robot"></i></a>
+                                        <ul>
+                                            <li><a href="#">SHIVANAND K</a></li>
+                                            <li><a href="#">SHREYAS G R</a></li>
+                                            <li><a href="#">SHREYAS K T</a></li>
+                                            <li><a href="#">SNEHA KUMARI</a></li>
+                                        </ul>
+                                        </li>
+                                        <li><a href="#">Daily Attendance <i class="fa-solid fa-circle-exclamation"></i></a>
+                                            <ul>
+                                                <li><a href="#">SUCHITH CHANDRA</a></li>
+                                                <li><a href="#">SUJAL AGRAHARI</a></li>
+                                                <li><a href="#">SUMA</a></li>
+                                                <li><a href="#">SUMITH KUMAR</a></li>
+                                            </ul>
+                                            </li>
+                                            <li><a href="#">Drop down menue</a>
+                                                <ul>
+                                                    <li><a href="#">SWATI</a></li>
+                                                    <li><a href="#">TARUN G</a></li>
+                                                    <li><a href="#">TEJAS M NAIDU</a></li>
+                                                    <li><a href="#">THEJAS AG</a></li>
+                                                </ul>
+                                                </li>
+                                                <li><a href="#">College web page <i class="fa-solid fa-graduation-cap"></i></a>
+                                                    <ul>
+                                                        <li><a href="#">VARSHINI K T</a></li>
+                                                        <li><a href="#">VEDA K VAJJAD</a></li>
+                                                        <li><a href="#">VEMUGANTI SRIRAG</a></li>
+                                                        <li><a href="#">YASHWANTH R</a></li>
+                                                    </ul>
+                                                    </li>
+
+    </ul>
+</div>
+</body>
+</html>
